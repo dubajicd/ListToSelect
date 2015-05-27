@@ -6,6 +6,8 @@
     <li>Option 3</li>
   </ul>
 </div>
+
+Some aditional css needed to show/hide select or list
 */
 
 ( function( $ ) {
