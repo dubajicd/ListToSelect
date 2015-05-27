@@ -1,3 +1,13 @@
+/*
+<div id="navigation-pagination">
+  <ul>
+    <li>Option 1</li>
+    <li>Option 2</li>
+    <li>Option 3</li>
+  </ul>
+</div>
+*/
+
 ( function( $ ) {
     jQuery(document).ready(function(){
         var totalElements = jQuery('#navigation-pagination ul li').size();
